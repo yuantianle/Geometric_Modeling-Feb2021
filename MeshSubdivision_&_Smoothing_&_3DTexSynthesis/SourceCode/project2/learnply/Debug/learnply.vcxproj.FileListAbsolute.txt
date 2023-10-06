@@ -1,0 +1,6 @@
+C:\Users\zhange\Desktop\project1\learnply\Debug\learnply.exe
+C:\Users\zhange\Desktop\project1\learnply\Debug\learnply.pdb
+D:\CS554\learnply\project1\learnply\Debug\learnply.exe
+D:\CS554\learnply\project1\learnply\Debug\learnply.pdb
+D:\CS554\learnply\project2\learnply\Debug\learnply.exe
+D:\CS554\learnply\project2\learnply\Debug\learnply.pdb

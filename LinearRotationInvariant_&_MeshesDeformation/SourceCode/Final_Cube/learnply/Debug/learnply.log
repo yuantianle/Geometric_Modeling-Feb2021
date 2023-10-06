@@ -1,0 +1,38 @@
+﻿  learnply.cpp
+D:\CS554\learnply\Final_Cube\learnply\bmptotexture.h(51,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\Final_Cube\learnply\RIdeformation.h(236,37): warning C4305: '=': truncation from 'double' to 'float'
+D:\CS554\learnply\Final_Cube\learnply\RIdeformation.h(677,27): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\RIdeformation.h(685,27): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\sphere.h(79,36): warning C4305: '-=': truncation from 'double' to 'float'
+D:\CS554\learnply\Final_Cube\learnply\sphere.h(80,37): warning C4305: '+=': truncation from 'double' to 'float'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(153,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(382,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(714,12): warning C4101: 'f': unreferenced local variable
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(713,9): warning C4101: 'j': unreferenced local variable
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1139,14): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1183,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1200,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1209,14): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1581,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1588,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1590,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1629,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1630,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1663,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1674,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1725,16): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1862,26): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1887,22): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(1914,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(4734,20): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6054,17): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6069,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6071,17): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6294,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6346,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6378,23): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6387,26): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6512,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\Final_Cube\learnply\learnply.cpp(6560,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+icVector.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  learnply.vcxproj -> D:\CS554\learnply\Final_Cube\learnply\.\Debug\learnply.exe

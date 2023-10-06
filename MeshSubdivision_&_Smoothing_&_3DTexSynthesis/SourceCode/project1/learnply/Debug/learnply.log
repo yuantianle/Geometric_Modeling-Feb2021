@@ -1,0 +1,22 @@
+﻿  learnply.cpp
+D:\CS554\learnply\project1\learnply\learnply.cpp(88,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\project1\learnply\learnply.cpp(298,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\project1\learnply\learnply.cpp(561,12): warning C4101: 'f': unreferenced local variable
+D:\CS554\learnply\project1\learnply\learnply.cpp(560,9): warning C4101: 'j': unreferenced local variable
+D:\CS554\learnply\project1\learnply\learnply.cpp(968,14): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(1012,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(1029,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(1038,14): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(1281,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\project1\learnply\learnply.cpp(1288,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\project1\learnply\learnply.cpp(1290,5): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CS554\learnply\project1\learnply\learnply.cpp(1324,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\project1\learnply\learnply.cpp(1325,50): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\project1\learnply\learnply.cpp(1358,26): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\CS554\learnply\project1\learnply\learnply.cpp(1412,16): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(1512,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(2238,13): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(2336,16): warning C4018: '<': signed/unsigned mismatch
+D:\CS554\learnply\project1\learnply\learnply.cpp(2449,35): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+icVector.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  learnply.vcxproj -> D:\CS554\learnply\project1\learnply\.\Debug\learnply.exe
