@@ -85,4 +85,10 @@
 
 ## [Project 4 - Linear Rotation Invariant for Meshes Deformation](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main/Project4_LinearRotationInvariant_%26_MeshesDeformation)
 
-![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/aa533065-a230-4454-8519-cd21d836b71e)
+|Transformation|Bunny Before|Bunny After|
+|-|-|-|
+|Rotate|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/1f1aee11-0f0b-4727-9d67-2bb8b8b6d1d0)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/f7d6a94a-8a8e-4b80-bd6c-7cd2fcdedebb)|
+|Scale|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/eb42002a-df7e-45b1-9424-5e2344ab402c)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/e30e5ae2-0e23-4708-9921-17f8e60351e7)|
+|Translate|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/2dcb1d87-256a-47f4-b7a4-ae90a96f9cfe)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/c117a6c7-8e7d-4672-82ca-37c94c912763)|
+
+<img src="https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/df838260-1eb6-41b5-978d-98c5031aa901"  width="90%"/>
