@@ -48,13 +48,41 @@
 |![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/6db6c7ab-f8fe-463b-9b93-c747f369d95f)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/c77e798c-b5d2-4387-ab9a-3c3f6fe07657)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/948aed73-fd52-4220-afa5-2582c9239399)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/9d03a61e-365a-402e-be22-7ba66b6cb641)|
 
 
-
-
-
 ## [Project 3 - Sketch Stylization & Curvature Tensor](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main/Project3_SketchStylization_%26_CurvatureTensor)
+
+### 3.1 Curvature Tensor Visualization 
+
+|Curvature Type|Donut Surface|Dragon Surface|
+|-|-|-|
+|Mean curvature|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/69e73123-e686-44a0-9e1c-be6003f2e899)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/f481709a-3a0e-4dec-8c3f-1568bea40ef0)|
+|Gaussian curvature|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/e8cdba9f-a414-4c61-8e97-80858c04a9f8)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/0ea65afb-6350-4c6c-8425-e517e007be5c)|
+
+#### Before Smoothing 
+
+|Eigen Vector Type|Donut Surface|Dragon Surface|
+|-|-|-|
+|Minor principle|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/6b148f09-4f8f-43bf-8303-0fce052846b0)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/30a44a60-dbdc-4806-8662-b4830cd136dd)|
+|Major principle|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/56a4440f-c0b5-4d76-85ae-3bb7381af983)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/09b22beb-4fb4-4a64-9a5d-20b144bb786b)|
+|Duplicate principles|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/4bba3553-9480-4254-9804-a6e193fad01f)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/e8d78b57-e005-4e55-b3ca-cb65b10aa398)|
+
+#### After Smoothing 
+
+|Eigen Vector Type|Donut Surface|Dragon Surface|
+|-|-|-|
+|Minor principle|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/d7c0d71d-5bca-45c2-baa8-f47b7c3a1e6d)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/3eb8bad5-0487-4d5e-ae1c-9b017b88a8ce)|
+|Major principle|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/819f2cd3-acdd-4a09-910e-0f9b4e853d43)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/dbc90056-3c58-4645-8bc5-b8853d210349)|
+|Duplicate principles|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/c8da5fc9-a8a5-4f9c-b793-4a8bc2aaede8)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/2c7f85bb-cef3-4234-8d3d-da640b73f6f6)|
 
 ### 3.1 Sketch Stylization
 
-### 3.2 Curvature Tensor
+|Mesh Type|Curvature Regression Line|Add Silhouette Stroke| Turn on Light |
+|-|-|-|-|
+|Donut|<img src="https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/ea52931f-8231-4e2f-b427-76a7024dc3aa" width="220"/>|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/1c27c6a0-1580-4cbc-80d2-c7f468e4bcf4)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/84b935de-57ed-4b64-9536-9915e7788748)|
+|Bunny|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/6d59a3c1-28f0-43fa-8d1b-7bd1909dc6e0)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/e236b198-70e8-4b3b-a78c-4b1203c51407)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/0bf8634f-6a80-4cdb-81bd-9d0a2cc35844)|
+|Feline|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/1fecc8b0-a137-4a12-a819-de3104e11925)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/41783007-61cc-4fda-967b-1bb9362e6058)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/965b4ef6-81d7-40e7-82ac-4046ee003539)|
+|Dragon|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/246e39bd-6d27-49a4-86b8-24989dd30500)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/9dd75048-303a-47a5-a999-962d7c75838a)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/560ccf0c-20c2-4076-ba46-a02d12c6d693)|
+|Budda|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/691962ce-82dc-4452-81c4-171f701b36ca)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/7333a275-9bd3-4bba-8f0a-a0cffe7d2117)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/c4565996-7b8c-4f75-bd5f-5fbe02b54c3f)|
 
 ## [Project 4 - Linear Rotation Invariant for Meshes Deformation](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main/Project4_LinearRotationInvariant_%26_MeshesDeformation)
+
+![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/aa533065-a230-4454-8519-cd21d836b71e)
