@@ -85,6 +85,7 @@
 
 ## [Project 4 - Linear Rotation Invariant for Meshes Deformation](https://github.com/yuantianle/Geometric_Modeling-Feb2021/tree/main/Project4_LinearRotationInvariant_%26_MeshesDeformation)
 
+### Transformation Results
 |Transformation|Bunny Before|Bunny After|
 |-|-|-|
 |Rotate|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/1f1aee11-0f0b-4727-9d67-2bb8b8b6d1d0)|![image](https://github.com/yuantianle/Geometric_Modeling-Feb2021/assets/61530469/f7d6a94a-8a8e-4b80-bd6c-7cd2fcdedebb)|
